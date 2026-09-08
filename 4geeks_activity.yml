@@ -1,0 +1,184 @@
+```yaml
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+    first_name: Julio
+    last_name: Silva
+
+    motto: Construyendo soluciones con datos, software e IA
+
+    focus: Data Science, Software, IA y Mejora de Procesos
+
+    summary: |
+      Profesional del área tecnológica con más de 10 años de experiencia
+      trabajando con sistemas, datos y soluciones digitales. Mi trayectoria
+      me ha permitido abordar problemas desde distintas perspectivas,
+      combinando programación, análisis de datos, automatización y mejora
+      de procesos.
+
+      Actualmente diseño y construyo soluciones utilizando datos, software
+      e inteligencia artificial para mejorar procesos, apoyar la toma de
+      decisiones y aumentar la eficiencia operacional. Me interesa
+      especialmente la intersección entre tecnología, ingeniería y negocio,
+      entendiendo la tecnología como una herramienta para resolver problemas
+      concretos y generar valor.
+
+    website: https://santabiblia.cloud
+    github: jsilvacode
+
+    languages:
+      - idiom: Español
+        level: Nativo
+
+      - idiom: Inglés
+        level: Principiante
+
+    interests:
+      - item: Inteligencia Artificial
+
+      - item: Ciencia de Datos
+
+      - item: Desarrollo de Software
+
+      - item: Business Intelligence
+
+      - item: Transformación Digital
+
+      - item: Lean Management y Mejora Continua
+
+
+education:
+    - degree: Ingeniería Industrial
+      university: IPLACEX
+      time: En curso
+      details: |
+        Formación en ingeniería orientada a operaciones, gestión de procesos,
+        productividad, análisis y mejora continua.
+
+    - degree: Data Science
+      university: 4Geeks Academy
+      time: En curso
+      details: |
+        Formación práctica en ciencia de datos, programación con Python,
+        análisis y procesamiento de información, estadística, visualización
+        de datos y machine learning.
+
+    - degree: Analista Programador
+      university: Formación profesional
+      time: Completado
+      details: |
+        Formación en programación, desarrollo de software, bases de datos,
+        análisis de sistemas y construcción de soluciones informáticas.
+
+
+experiences:
+    - role: Cofounder & CTO
+      time: 2026 - Presente
+      company: Croatica People + Culture
+      details: |
+        Responsable del desarrollo y dirección tecnológica de soluciones
+        digitales orientadas a personas, procesos y gestión organizacional.
+
+        - Diseño de productos y soluciones tecnológicas.
+        - Automatización y análisis de datos.
+        - Integración de inteligencia artificial en procesos.
+        - Desarrollo de herramientas digitales para gestión.
+
+    - role: Consultor de Tecnología y Transformación Digital
+      time: Actualidad
+      company: Profesional independiente
+      details: |
+        Diseño y desarrollo de soluciones tecnológicas orientadas a resolver
+        problemas de negocio, automatizar tareas y mejorar procesos.
+
+        - Desarrollo de software y aplicaciones.
+        - Business Intelligence y análisis de datos.
+        - Python, SQL, Excel y Power BI.
+        - Automatización de procesos.
+        - Inteligencia artificial aplicada.
+        - Digitalización y mejora de procesos.
+
+    - role: Tutor y Mentor Tecnológico
+      time: 2023 - Presente
+      company: Profesional independiente
+      details: |
+        Tutorías y acompañamiento en programación, análisis de datos,
+        estadística y herramientas tecnológicas para estudiantes y
+        profesionales.
+
+        - Programación en Python y Java.
+        - SQL y bases de datos.
+        - Excel y Business Intelligence.
+        - Ciencia y análisis de datos.
+        - Desarrollo de proyectos tecnológicos.
+
+
+projects:
+    intro: >
+      Proyectos personales y profesionales en los que aplico desarrollo
+      de software, análisis de datos, automatización e inteligencia
+      artificial para construir soluciones orientadas a problemas reales.
+
+    assignments:
+
+      - title: Flowmodoro
+        link: "https://flowmodoro.cloud"
+        tagline: "Aplicación web de productividad y gestión del tiempo orientada a organizar sesiones de trabajo y concentración mediante ciclos de enfoque."
+
+      - title: Planvi
+        link: "---"
+        tagline: "En construcción. Plataforma EdTech que integra inteligencia artificial para apoyar la planificación pedagógica, generación de evaluaciones y trabajo con información curricular."
+
+      - title: Conciliador Bancario
+        link: "127.0.0.1 ;p"
+        tagline: "Aplicación local para analizar cartolas bancarias y reportes contables, automatizando cruces, detección de diferencias y tareas de auditoría asociadas al proceso de conciliación bancaria."
+
+
+      - title: Santa Biblia PWA
+        link: "https://santabiblia.cloud"
+        tagline: "Aplicación web progresiva enfocada en ofrecer una experiencia moderna, rápida e inmersiva para la lectura y estudio de la Biblia."
+
+      - title: Escuela Sabática
+        link: "https://escuelasabatica.cl"
+        tagline: "Plataforma web de contenidos y recursos digitales para el estudio de la Escuela Sabática, con procesos automatizados de actualización y organización del contenido."
+
+
+skills:
+    toolset:
+      - name: Python
+        level: 85%
+
+      - name: SQL
+        level: 85%
+
+      - name: Excel
+        level: 90%
+
+      - name: Power BI
+        level: 85%
+
+      - name: Business Intelligence
+        level: 90%
+
+      - name: Data Analysis
+        level: 85%
+
+      - name: Data Science
+        level: 80%
+
+      - name: Inteligencia Artificial
+        level: 80%
+
+      - name: Desarrollo de Software
+        level: 85%
+
+      - name: Automatización de Procesos
+        level: 90%
+
+      - name: Transformación Digital
+        level: 90%
+
+      - name: Lean Management
+        level: 70%
+```
